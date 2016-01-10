@@ -6,8 +6,10 @@ The following is a list of open source compilers that can generate C (or in some
 |-------------------|-----------------------|-------|
 | [BaCon (Basic Converter)](http://basic-converter.org/) | Basic | |
 | [bc9Basic](http://bc9.bcxbasic.com/) | Basic | Windows-only. |
+| [Bigloo](http://www-sop.inria.fr/mimosa/fp/Bigloo/) | Scheme (R5RS) | |
 | [Chapel](http://chapel.cray.com/) | Chapel | |
 | [CHICKEN Scheme](http://www.call-cc.org/) | Scheme (R5RS) | |
+| [Ciao](http://ciao-lang.org/) | Prolog | |
 | [Critical Mass Modula-3](https://github.com/modula3/cm3) | Modula-3 | |
 | [Cython](http://cython.org) | Python | |
 | [Embeddable Common-Lisp](https://common-lisp.net/project/ecl/) | ANSI Common Lisp | |
@@ -25,6 +27,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Nim](http://nim-lang.org) | Nim | Can generate C, C++ or Objective C code. |
 | [ooc](http://ooc-lang.org) | ooc | |
 | [p2c](https://schneider.ncifcrf.gov/p2c/) | Several Pascal dialects, including UCSD and Turbo Pascal; Modula-2. | Can generate C or C++ code. |
+| [RPython](https://rpython.readthedocs.org/en/latest/) | RPython | |
 | [perlcc](http://search.cpan.org/dist/B-C/) | Perl 5 | |
 | [Sather](http://www.gnu.org/software/sather/) | Sather | |
 | [Seed7](http://seed7.sourceforge.net/) | Seed7 | |
