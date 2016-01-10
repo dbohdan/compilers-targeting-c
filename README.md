@@ -20,6 +20,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [GnuCOBOL](http://seed7.sourceforge.net/) | COBOL 2014 with extensions | |
 | [Haxe](http://haxe.org) | Haxe | Targets C++, not C. |
 | [Mercury](http://www.mercurylang.org/) | Mercury | |
+| [Monkey](http://monkey-x.com/) | Monkey | Targets C++, not C. |
 | [MLton](http://mlton.org/) | Standard ML | |
 | [Nim](http://nim-lang.org) | Nim | Can generate C, C++ or Objective C code. |
 | [ooc](http://ooc-lang.org) | ooc | |
