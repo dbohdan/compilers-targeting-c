@@ -34,6 +34,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [SLua](https://github.com/Neopallium/slua) | Lua | |
 | [SystemTap](http://sourceware.org/systemtap/) | SystemTap scripting language | SystemTap compiles kernel modules for monitoring Linux systems. |
 | [Vala](https://wiki.gnome.org/Projects/Vala) | Vala | |
+| [Zephir](http://zephir-lang.com/) | Zephir | A language for writing PHP extensions. |
 
 # See also
 * [Cello](http://libcello.org/), a library for high-level programming in C
