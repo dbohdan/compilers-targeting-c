@@ -27,6 +27,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Sather](http://www.gnu.org/software/sather/) | Sather | |
 | [Seed7](http://seed7.sourceforge.net/) | Seed7 | |
 | [Vala](https://wiki.gnome.org/Projects/Vala) | Vala | |
+| [SLua](https://github.com/Neopallium/slua) | Lua | |
 
 # See also
 * [LLVM C backend resurrected](https://github.com/draperlaboratory/llvm-cbe)
