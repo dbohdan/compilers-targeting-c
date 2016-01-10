@@ -19,7 +19,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [GCL] (http://www.gnu.org/software/gcl/) | Common Lisp | |
 | [Genie](http://live.gnome.org/Genie) | Genie |
 | [GHC](https://www.haskell.org/ghc/) | Haskell | [C backend](https://downloads.haskell.org/~ghc/7.6.3/docs/html/users_guide/code-generators.html) documentation page.  |
-| [GnuCOBOL](http://seed7.sourceforge.net/) | COBOL 2014 with extensions | |
+| [GnuCOBOL](http://open-cobol.sourceforge.net/) | COBOL 2014 with extensions | |
 | [Haxe](http://haxe.org) | Haxe | Targets C++, not C. |
 | [Mercury](http://www.mercurylang.org/) | Mercury | |
 | [MLton](http://mlton.org/) | Standard ML | |
