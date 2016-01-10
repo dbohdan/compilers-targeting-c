@@ -13,6 +13,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [f2c](http://www.netlib.org/f2c/) | Fortran 77 | |
 | [Felix](http://felix-lang.org/) | Felix | Targets C++, not C. |
 | [Gambit](http://gambitscheme.org/) | Scheme (R5RS) | |
+| [GCL] (http://www.gnu.org/software/gcl/) | Common Lisp | |
 | [Genie](http://live.gnome.org/Genie) | Genie |
 | [GHC](https://www.haskell.org/ghc/) | Haskell | [C backend](https://downloads.haskell.org/~ghc/7.6.3/docs/html/users_guide/code-generators.html) documentation page.  |
 | [GnuCOBOL](http://seed7.sourceforge.net/) | COBOL 2014 with extensions | |
