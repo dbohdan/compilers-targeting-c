@@ -35,6 +35,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Vala](https://wiki.gnome.org/Projects/Vala) | Vala | |
 
 # See also
+* [Cello](http://libcello.org/), a library for high-level programming in C
 * [LLVM C backend resurrected](https://github.com/draperlaboratory/llvm-cbe)
 
 # Contributing
