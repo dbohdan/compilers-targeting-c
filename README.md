@@ -22,6 +22,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Nim](http://nim-lang.org) | Nim | Can generate C, C++ or Objective C code. |
 | [ooc](http://ooc-lang.org) | ooc | |
 | [p2c](https://schneider.ncifcrf.gov/p2c/) | Several Pascal dialects, including UCSD and Turbo Pascal; Modula-2. | Can generate C or C++ code. |
+| [perlcc](http://search.cpan.org/dist/B-C/) | Perl5 | |
 | [Sather](http://www.gnu.org/software/sather/) | Sather | |
 | [Seed7](http://seed7.sourceforge.net/) | Seed7 | |
 | [Vala](https://wiki.gnome.org/Projects/Vala) | Vala | |
