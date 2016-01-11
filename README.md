@@ -18,6 +18,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Cython](http://cython.org) | Python | |
 | [EiffelStudio](https://www.eiffel.com/eiffelstudio/) | Eiffel | |
 | [Embeddable Common-Lisp](https://common-lisp.net/project/ecl/) | ANSI Common Lisp | |
+| [Euphoria to C Translator](http://www.rapideuphoria.com/e2c.htm) | Euphoria | |
 | [f2c](http://www.netlib.org/f2c/) | Fortran 77 | |
 | [Felix](http://felix-lang.org/) | Felix | Targets C++, not C. |
 | [Gambit](http://gambitscheme.org/) | Scheme (R5RS) | |
