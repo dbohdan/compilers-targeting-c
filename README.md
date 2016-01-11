@@ -28,6 +28,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [MLton](http://mlton.org/) | Standard ML | |
 | [Monkey](http://monkey-x.com/) | Monkey | Targets C++, not C. |
 | [Nim](http://nim-lang.org) | Nim | Can generate C, C++ or Objective C code. |
+| [oi](https://github.com/hodefoting/oi/) | C with traits | Compiles to code that can be directly used from plain C. |
 | [ooc](http://ooc-lang.org) | ooc | |
 | [p2c](https://schneider.ncifcrf.gov/p2c/) | Several Pascal dialects, including UCSD and Turbo Pascal; Modula-2. | Can generate C or C++ code. |
 | [perlcc](http://search.cpan.org/dist/B-C/) | Perl 5 | |
