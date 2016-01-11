@@ -32,6 +32,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [RPython](https://rpython.readthedocs.org/en/latest/) | RPython, a restricted subset of Python. | |
 | [Sather](http://www.gnu.org/software/sather/) | Sather | |
 | [Seed7](http://seed7.sourceforge.net/) | Seed7 | |
+| [Shedskin](https://github.com/shedskin/shedskin) | Python | Targets C++, not C. |
 | [SLua](https://github.com/Neopallium/slua) | Lua | |
 | [SystemTap](http://sourceware.org/systemtap/) | SystemTap scripting language | SystemTap compiles kernel modules for monitoring Linux systems. |
 | [Vala](https://wiki.gnome.org/Projects/Vala) | Vala | |
@@ -39,6 +40,7 @@ The following is a list of open source compilers that can generate C (or in some
 
 # See also
 * [Cello](http://libcello.org/), a library for high-level programming in C
+| [ClueCC](http://cluecc.sourceforge.net/), an ANSI C compiler targeting high level languages (Lua, JavaScript, Perl 5, C, Java, Common Lisp)
 * [LLVM C backend resurrected](https://github.com/draperlaboratory/llvm-cbe)
 
 # Contributing
