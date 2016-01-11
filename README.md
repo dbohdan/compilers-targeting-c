@@ -11,6 +11,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Chapel](http://chapel.cray.com/) | Chapel | |
 | [CHICKEN Scheme](http://www.call-cc.org/) | Scheme (R5RS) | |
 | [Ciao](http://ciao-lang.org/) | Prolog | |
+| [ClueCC](http://cluecc.sourceforge.net/) | Lua / JavaScript / C / Java / Common Lisp | |
 | [Critical Mass Modula-3](https://github.com/modula3/cm3) | Modula-3 | |
 | [Cython](http://cython.org) | Python | |
 | [Embeddable Common-Lisp](https://common-lisp.net/project/ecl/) | ANSI Common Lisp | |
@@ -32,6 +33,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [RPython](https://rpython.readthedocs.org/en/latest/) | RPython, a restricted subset of Python. | |
 | [Sather](http://www.gnu.org/software/sather/) | Sather | |
 | [Seed7](http://seed7.sourceforge.net/) | Seed7 | |
+| [Shedskin](https://github.com/shedskin/shedskin) | Python | Targets C++, not C. |
 | [SLua](https://github.com/Neopallium/slua) | Lua | |
 | [SystemTap](http://sourceware.org/systemtap/) | SystemTap scripting language | SystemTap compiles kernel modules for monitoring Linux systems. |
 | [Vala](https://wiki.gnome.org/Projects/Vala) | Vala | |
