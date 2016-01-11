@@ -26,6 +26,9 @@ The following is a list of open source compilers that can generate C (or in some
 | [GHC](https://www.haskell.org/ghc/) | Haskell | [C backend](https://downloads.haskell.org/~ghc/7.6.3/docs/html/users_guide/code-generators.html) documentation page.  |
 | [GnuCOBOL](http://open-cobol.sourceforge.net/) | COBOL 2014 with extensions | |
 | [Haxe](http://haxe.org) | Haxe | Targets C++, not C. |
+| [Idris](http://www.idris-lang.org/) | Idris | A pure functional programming language with dependent types. |
+| [Ivory](http://ivorylang.org/) | Ivory | A Haskell eDSL for safe systems programming. |
+| [mbeddr](http://mbeddr.com/) | mbeddr | A set of languages for embedded software engineering. |
 | [Mercury](http://www.mercurylang.org/) | Mercury | |
 | [MLton](http://mlton.org/) | Standard ML | |
 | [Monkey](http://monkey-x.com/) | Monkey | Targets C++, not C. |
