@@ -4,6 +4,7 @@ The following is a list of open source compilers that can generate C (or in some
 
 | Project name/link | Language(s) supported | Notes |
 |-------------------|-----------------------|-------|
+| [ATS](http://www.ats-lang.org/) | ATS | |
 | [BaCon (Basic Converter)](http://basic-converter.org/) | Basic | |
 | [bc9Basic](http://bc9.bcxbasic.com/) | Basic | Windows-only. |
 | [bft (Brainfuck Transcompiler)](https://github.com/prophittcorey/bft) | Brainfuck | |
