@@ -38,6 +38,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [ooc](http://ooc-lang.org) | ooc | |
 | [p2c](https://schneider.ncifcrf.gov/p2c/) | Several Pascal dialects, including UCSD and Turbo Pascal; Modula-2. | Can generate C or C++ code. |
 | [perlcc](http://search.cpan.org/dist/B-C/) | Perl 5 | |
+| [Pythran](https://github.com/serge-sans-paille/pythran) | Python | Targets C++, not C. |
 | [Ragel](http://www.colm.net/open-source/ragel/) | Ragel | Compiles executable finite state machines from regular languages. Can generate C or C++ code. |
 | [RPython](https://rpython.readthedocs.org/en/latest/) | RPython, a restricted subset of Python. | |
 | [Sather](http://www.gnu.org/software/sather/) | Sather | |
