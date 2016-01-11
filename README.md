@@ -13,8 +13,9 @@ The following is a list of open source compilers that can generate C (or in some
 | [CHICKEN Scheme](http://www.call-cc.org/) | Scheme (R5RS) | |
 | [Ciao](http://ciao-lang.org/) | Prolog | |
 | [Critical Mass Modula-3](https://github.com/modula3/cm3) | Modula-3 | |
-| [Cyclone](https://github.com/justinethier/cyclone) | Scheme (R7RS) | Cheney on the M.T.A. with native threads |
+| [Cyclone](https://github.com/justinethier/cyclone) | Scheme (R7RS) | Cheney on the M.T.A. with native threads. |
 | [Cython](http://cython.org) | Python | |
+| [EiffelStudio](https://www.eiffel.com/eiffelstudio/) | Eiffel | |
 | [Embeddable Common-Lisp](https://common-lisp.net/project/ecl/) | ANSI Common Lisp | |
 | [f2c](http://www.netlib.org/f2c/) | Fortran 77 | |
 | [Felix](http://felix-lang.org/) | Felix | Targets C++, not C. |
