@@ -20,7 +20,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Embeddable Common-Lisp](https://common-lisp.net/project/ecl/) | ANSI Common Lisp | |
 | [f2c](http://www.netlib.org/f2c/) | Fortran 77 | |
 | [Felix](http://felix-lang.org/) | Felix | Targets C++, not C. |
-| [Futhark(https://github.com/HIPERFIT/futhark) | Futhark | Purely functional data-parallel language generating OpenCL C |
+| [Futhark](https://github.com/HIPERFIT/futhark) | Futhark | Purely functional data-parallel language generating OpenCL C |
 | [Gambit](http://gambitscheme.org/) | Scheme (R5RS) | |
 | [GCL] (http://www.gnu.org/software/gcl/) | Common Lisp | |
 | [Genie](http://live.gnome.org/Genie) | Genie |
