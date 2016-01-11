@@ -11,7 +11,6 @@ The following is a list of open source compilers that can generate C (or in some
 | [Chapel](http://chapel.cray.com/) | Chapel | |
 | [CHICKEN Scheme](http://www.call-cc.org/) | Scheme (R5RS) | |
 | [Ciao](http://ciao-lang.org/) | Prolog | |
-| [ClueCC](http://cluecc.sourceforge.net/) | Lua / JavaScript / C / Java / Common Lisp | |
 | [Critical Mass Modula-3](https://github.com/modula3/cm3) | Modula-3 | |
 | [Cython](http://cython.org) | Python | |
 | [Embeddable Common-Lisp](https://common-lisp.net/project/ecl/) | ANSI Common Lisp | |
@@ -41,6 +40,7 @@ The following is a list of open source compilers that can generate C (or in some
 
 # See also
 * [Cello](http://libcello.org/), a library for high-level programming in C
+| [ClueCC](http://cluecc.sourceforge.net/), an ANSI C compiler targeting high level languages (Lua, JavaScript, Perl 5, C, Java, Common Lisp)
 * [LLVM C backend resurrected](https://github.com/draperlaboratory/llvm-cbe)
 
 # Contributing
