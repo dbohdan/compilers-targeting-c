@@ -9,6 +9,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [bc9Basic](http://bc9.bcxbasic.com/) | Basic | Windows-only. |
 | [bft (Brainfuck Transcompiler)](https://github.com/prophittcorey/bft) | Brainfuck | |
 | [Bigloo](http://www-sop.inria.fr/mimosa/fp/Bigloo/) | Scheme (R5RS) | |
+| [bmx-ng](https://github.com/bmx-ng/bcc) | BlitzMax | A Monkey-derrived BlitzMax to C transpiler. |
 | [Céu](http://www.ceu-lang.org/) | Céu | |
 | [Chapel](http://chapel.cray.com/) | Chapel | |
 | [CHICKEN Scheme](http://www.call-cc.org/) | Scheme (R5RS) | |
