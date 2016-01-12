@@ -37,6 +37,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [oi](https://github.com/hodefoting/oi/) | C with traits | Compiles to code that can be directly used from plain C. |
 | [ooc](http://ooc-lang.org) | ooc | |
 | [p2c](https://schneider.ncifcrf.gov/p2c/) | Several Pascal dialects, including UCSD and Turbo Pascal; Modula-2. | Can generate C or C++ code. |
+| [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm) | Java bytecode | For Java to iOS portability part of the [Codename One](https://www.codenameone.com/) project |
 | [perlcc](http://search.cpan.org/dist/B-C/) | Perl 5 | |
 | [Ragel](http://www.colm.net/open-source/ragel/) | Ragel | Compiles executable finite state machines from regular languages. Can generate C or C++ code. |
 | [RPython](https://rpython.readthedocs.org/en/latest/) | RPython, a restricted subset of Python. | |
