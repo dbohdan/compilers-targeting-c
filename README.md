@@ -35,6 +35,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Haxe](http://haxe.org) | Haxe | Targets C++, not C. |
 | [Idris](http://www.idris-lang.org/) | Idris | A pure functional programming language with dependent types. |
 | [Ivory](http://ivorylang.org/) | Ivory | A Haskell eDSL for safe systems programming. |
+| [JX Objective-C](https://github.com/JX7P/JXobjC) | Objective-C (JX Dialect) | Object-oriented (Kayian School) language hosted on C |
 | [Language84](http://norstrulde.org/language84/) | Language84 | |
 | [mbeddr](http://mbeddr.com/) | mbeddr | A set of languages for embedded software engineering. |
 | [Mercury](http://www.mercurylang.org/) | Mercury | |
