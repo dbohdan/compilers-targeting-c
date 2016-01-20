@@ -28,7 +28,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [FreeBASIC](http://http://www.freebasic.net/) | Basic | |
 | [Futhark](https://github.com/HIPERFIT/futhark) | Futhark | Purely functional data-parallel language generating OpenCL C |
 | [Gambit](http://gambitscheme.org/) | Scheme (R5RS) | |
-| [GCL] (http://www.gnu.org/software/gcl/) | Common Lisp | |
+| [GCL](http://www.gnu.org/software/gcl/) | Common Lisp | |
 | [Genie](http://live.gnome.org/Genie) | Genie |
 | [GHC](https://www.haskell.org/ghc/) | Haskell | [C backend](https://downloads.haskell.org/~ghc/7.6.3/docs/html/users_guide/code-generators.html) documentation page.  |
 | [GnuCOBOL](http://open-cobol.sourceforge.net/) | COBOL 2014 with extensions | |
@@ -55,6 +55,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Ragel](http://www.colm.net/open-source/ragel/) | Ragel | Compiles executable finite state machines from regular languages. Can generate C or C++ code. |
 | [RPython](https://rpython.readthedocs.org/en/latest/) | RPython, a restricted subset of Python. | |
 | [Sather](http://www.gnu.org/software/sather/) | Sather | |
+| [Scheme-to-C](https://github.com/akeep/scheme-to-c) | Scheme | Example nanopass compiler |
 | [Seed7](http://seed7.sourceforge.net/) | Seed7 | |
 | [Shedskin](https://github.com/shedskin/shedskin) | Python | Targets C++, not C. |
 | [SLua](https://github.com/Neopallium/slua) | Lua | |
