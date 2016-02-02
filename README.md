@@ -60,6 +60,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Seed7](http://seed7.sourceforge.net/) | Seed7 | |
 | [Shedskin](https://github.com/shedskin/shedskin) | Python | Targets C++, not C. |
 | [SLua](https://github.com/Neopallium/slua) | Lua | |
+| [SML#](http://www.pllab.riec.tohoku.ac.jp/smlsharp/) | Standard ML | |
 | [SystemTap](http://sourceware.org/systemtap/) | SystemTap scripting language | SystemTap compiles kernel modules for monitoring Linux systems. |
 | [Ur/Web](http://www.impredicative.com/ur/) | Ur/Web | |
 | [Vala](https://wiki.gnome.org/Projects/Vala) | Vala | |
