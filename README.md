@@ -62,6 +62,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Shedskin](https://github.com/shedskin/shedskin) | Python | Targets C++, not C. |
 | [SLua](https://github.com/Neopallium/slua) | Lua | |
 | [SystemTap](http://sourceware.org/systemtap/) | SystemTap scripting language | SystemTap compiles kernel modules for monitoring Linux systems. |
+| [ThinScript](https://github.com/evanw/thinscript) | ThinScript | A lower-level programming language inspired by TypeScript. ThinScript also compiles to JavaScript and WebAssembly. |
 | [Ur/Web](http://www.impredicative.com/ur/) | Ur/Web | |
 | [Vala](https://wiki.gnome.org/Projects/Vala) | Vala | |
 | [Zephir](http://zephir-lang.com/) | Zephir | A language for writing PHP extensions. |
