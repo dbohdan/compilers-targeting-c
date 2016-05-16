@@ -69,6 +69,7 @@ The following is a list of open source compilers that can generate C (or in some
 # See also
 * [Cello](http://libcello.org/), a library for high-level programming in C
 * [Clue](http://cowlark.com/clue/), an ANSI C compiler targeting high level languages (Lua, JavaScript, Perl 5, C, Java, Common Lisp)
+* [LISP/c](https://github.com/eratosthenesia/lispc), a Common Lisp based macrolanguage for C
 * [LLVM C backend resurrected](https://github.com/draperlaboratory/llvm-cbe)
 
 # Contributing
