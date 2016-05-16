@@ -55,7 +55,8 @@ The following is a list of open source compilers that can generate C (or in some
 | [Py14](https://github.com/lukasmartinelli/py14) | Python | Targets C++, not C. |
 | [Pythran](https://github.com/serge-sans-paille/pythran) | Python | Targets C++, not C. |
 | [Ragel](http://www.colm.net/open-source/ragel/) | Ragel | Compiles executable finite state machines from regular languages. Can generate C or C++ code. |
-| [RPython](https://rpython.readthedocs.org/en/latest/) | RPython, a restricted subset of Python. | |
+| [RPerl](https://github.com/wbraswell/rperl) | RPerl, a restricted subset of Perl. | Targets C++, not C. Unrelated to RPython. |
+| [RPython](https://rpython.readthedocs.org/en/latest/) | RPython, a restricted subset of Python. | Unrelated to RPerl. |
 | [Sather](http://www.gnu.org/software/sather/) | Sather | |
 | [Scheme-to-C](https://github.com/akeep/scheme-to-c) | Scheme | Example nanopass compiler |
 | [Seed7](http://seed7.sourceforge.net/) | Seed7 | |
