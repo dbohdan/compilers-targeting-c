@@ -65,6 +65,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [SLua](https://github.com/Neopallium/slua) | Lua | |
 | [SystemTap](http://sourceware.org/systemtap/) | SystemTap scripting language | SystemTap compiles kernel modules for monitoring Linux systems. |
 | [ThinScript](https://github.com/evanw/thinscript) | ThinScript | A lower-level programming language inspired by TypeScript. ThinScript also compiles to JavaScript and WebAssembly. |
+| [UbxBasic](https://sourceforge.net/projects/ubxbasic/) | Basic | Can target C++ or C. A fork of [BCX](http://bcx-basic.sourceforge.net/) that adds Linux support in addition to Windows. Uses Glib. |
 | [Ur/Web](http://www.impredicative.com/ur/) | Ur/Web | |
 | [Vala](https://wiki.gnome.org/Projects/Vala) | Vala | |
 | [Zephir](http://zephir-lang.com/) | Zephir | A language for writing PHP extensions. |
