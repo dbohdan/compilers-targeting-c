@@ -6,7 +6,7 @@ The following is a list of open source compilers that can generate C (or in some
 |-------------------|-----------------------|-------|
 | [ATS](http://www.ats-lang.org/) | ATS | |
 | [BaCon (Basic Converter)](http://basic-converter.org/) | Basic | |
-| [bc9Basic](https://sourceforge.net/projects/bc9basic/) | Basic | Can target C++ or C. Runs only on Windows but can generate code for *nix. A fork of [BCX](http://bcx-basic.sourceforge.net/) that outputs valid ISO/ANSI C. [Website archive](http://web.archive.org/web/20160405001529/http://bc9.bcxbasic.com/). |
+| [bc9Basic](https://sourceforge.net/projects/bc9basic/) | Basic | Can generate C or C++ code. Runs only on Windows but can generate code for *nix. A fork of [BCX](http://bcx-basic.sourceforge.net/) that outputs valid ISO/ANSI C. [Website archive](http://web.archive.org/web/20160405001529/http://bc9.bcxbasic.com/). |
 | [bft (Brainfuck Transcompiler)](https://github.com/prophittcorey/bft) | Brainfuck | |
 | [Bigloo](http://www-sop.inria.fr/mimosa/fp/Bigloo/) | Scheme (R5RS) | |
 | [bmx-ng](https://github.com/bmx-ng/bcc) | BlitzMax | A Monkey-derived BlitzMax to C transpiler. |
@@ -50,12 +50,12 @@ The following is a list of open source compilers that can generate C (or in some
 | [ooc](http://ooc-lang.org) | ooc | |
 | [OpenDylan](http://opendylan.org/) | Dylan |
 | [p2c](https://schneider.ncifcrf.gov/p2c/) | Several Pascal dialects, including UCSD and Turbo Pascal; Modula-2. | Can generate C or C++ code. |
-| [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm) | Java bytecode | For Java to iOS portability part of the [Codename One](https://www.codenameone.com/) project |
+| [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm) | Java bytecode | Use for the Java to iOS portability part of the [Codename One](https://www.codenameone.com/) project. |
 | [perlcc](http://search.cpan.org/dist/B-C/) | Perl 5 | |
 | [purescript-native](https://github.com/andyarvanitis/purescript-native) | PureScript | Targets C++, not C. |
 | [Py14](https://github.com/lukasmartinelli/py14) | Python | Targets C++, not C. |
 | [Pythran](https://github.com/serge-sans-paille/pythran) | Python | Targets C++, not C. |
-| [Ragel](http://www.colm.net/open-source/ragel/) | Ragel | Compiles executable finite state machines from regular languages. Can generate C or C++ code. |
+| [Ragel](http://www.colm.net/open-source/ragel/) | Ragel | Can generate C or C++ code. Compiles executable finite state machines from regular languages. |
 | [RPerl](https://github.com/wbraswell/rperl) | RPerl, a restricted subset of Perl. | Targets C++, not C. Unrelated to RPython. |
 | [RPython](https://rpython.readthedocs.org/en/latest/) | RPython, a restricted subset of Python. | Unrelated to RPerl. |
 | [Sather](http://www.gnu.org/software/sather/) | Sather | |
@@ -65,7 +65,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [SLua](https://github.com/Neopallium/slua) | Lua | |
 | [SystemTap](http://sourceware.org/systemtap/) | SystemTap scripting language | SystemTap compiles kernel modules for monitoring Linux systems. |
 | [ThinScript](https://github.com/evanw/thinscript) | ThinScript | A lower-level programming language inspired by TypeScript. ThinScript also compiles to JavaScript and WebAssembly. |
-| [UbxBasic](https://sourceforge.net/projects/ubxbasic/) | Basic | Can target C++ or C. A fork of [BCX](http://bcx-basic.sourceforge.net/) that adds Linux support in addition to Windows. Uses Glib. |
+| [UbxBasic](https://sourceforge.net/projects/ubxbasic/) | Basic | Can generate C or C++ code. A fork of [BCX](http://bcx-basic.sourceforge.net/) that adds Linux support in addition to Windows. Uses Glib. |
 | [Ur/Web](http://www.impredicative.com/ur/) | Ur/Web | |
 | [Vala](https://wiki.gnome.org/Projects/Vala) | Vala | |
 | [Zephir](http://zephir-lang.com/) | Zephir | A language for writing PHP extensions. |
