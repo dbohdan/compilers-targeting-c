@@ -10,6 +10,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [bft (Brainfuck Transcompiler)](https://github.com/prophittcorey/bft) | Brainfuck | |
 | [Bigloo](http://www-sop.inria.fr/mimosa/fp/Bigloo/) | Scheme (R5RS) | |
 | [bmx-ng](https://github.com/bmx-ng/bcc) | BlitzMax | A Monkey-derived BlitzMax to C transpiler. |
+| [Carp](https://github.com/carp-lang/carp) | Carp | A statically typed lisp, without a GC, for real-time applications. |
 | [Chapel](http://chapel.cray.com/) | Chapel | |
 | [CHICKEN Scheme](http://www.call-cc.org/) | Scheme (R5RS) | |
 | [Ciao](http://ciao-lang.org/) | Prolog | |
