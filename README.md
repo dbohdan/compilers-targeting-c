@@ -42,7 +42,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [mbeddr](http://mbeddr.com/) | mbeddr | A set of languages for embedded software engineering. |
 | [Mercury](http://www.mercurylang.org/) | Mercury | |
 | [MLton](http://mlton.org/) | Standard ML | |
-| [Monkey](http://monkey-x.com/) | Monkey | Targets C++, not C. |
+| [Monkey 2](http://monkeycoder.co.nz/) | Monkey 2 | Targets C++, not C. |
 | [Mrustc](https://github.com/thepowersgang/mrustc) | Rust | |
 | [Nim](http://nim-lang.org) | Nim | Can generate C, C++ or Objective C code. |
 | [Nit](http://nitlanguage.org/) | Nit | |
