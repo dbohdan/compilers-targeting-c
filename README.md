@@ -37,6 +37,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Ivory](http://ivorylang.org/) | Ivory | A Haskell eDSL for safe systems programming. |
 | [jhc](http://repetae.net/computer/jhc/) | Haskell 98 | The resulting code doesn't use a garbage collector. |
 | [JX Objective-C](https://github.com/JX7P/JXobjC) | Objective-C (JX Dialect) | Object-oriented (Kayian School) language hosted on C |
+| [Kit](https://www.kitlang.org/) | Kit | A statically typed procedural language with manual MM, traits, pattern matching, and metaprogramming designed with game development in mind. |
 | [Language84](http://norstrulde.org/language84/) | Language84 | |
 | [mbeddr](http://mbeddr.com/) | mbeddr | A set of languages for embedded software engineering. |
 | [Mercury](http://www.mercurylang.org/) | Mercury | |
