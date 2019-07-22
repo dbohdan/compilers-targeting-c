@@ -44,6 +44,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [MLton](http://mlton.org/) | Standard ML | |
 | [Monkey 2](http://monkeycoder.co.nz/) | Monkey 2 | Targets C++, not C. |
 | [Mrustc](https://github.com/thepowersgang/mrustc) | Rust | |
+| [NectarJS](https://github.com/NectarJS/nectarjs) | JavaScript | The primary target is WebAssembly. [How to compile to C](https://github.com/NectarJS/nectarjs/issues/46#issuecomment-498532350). |
 | [Nim](http://nim-lang.org) | Nim | Can generate C, C++ or Objective C code. |
 | [Nit](http://nitlanguage.org/) | Nit | |
 | [Nuitka](http://nuitka.net/) | Python | |
