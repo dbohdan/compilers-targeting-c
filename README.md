@@ -47,6 +47,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Nim](http://nim-lang.org) | Nim | Can generate C, C++ or Objective C code. |
 | [Nit](http://nitlanguage.org/) | Nit | |
 | [Nuitka](http://nuitka.net/) | Python | |
+| [OBNC](http://www.miasap.se/obnc/) | Oberon | |
 | [ocamlcc](https://github.com/ocaml-bytes/ocamlcc) | OCaml | Compiles OCaml bytecode to C. |
 | [oi](https://github.com/hodefoting/oi/) | C with traits | Compiles to code that can be directly used from plain C. |
 | [ooc](http://ooc-lang.org) | ooc | |
