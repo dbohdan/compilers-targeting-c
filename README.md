@@ -14,6 +14,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [CHICKEN Scheme](http://www.call-cc.org/) | Scheme (R5RS) | |
 | [Ciao](http://ciao-lang.org/) | Prolog | |
 | [cito](http://cito.sourceforge.net/) | Ć | A language for making portable libraries with a syntax like C#. Also targets Java, C#, JavaScript, ActionScript, Perl 5 and D. |
+| [CLiCC](https://www.informatik.uni-kiel.de/~wg/clicc.html) | Common Lisp | Compiles a large strict subset of Common Lisp + CLOS to C. |
 | [Critical Mass Modula-3](https://github.com/modula3/cm3) | Modula-3 | |
 | [Cyclone](https://github.com/justinethier/cyclone) | Scheme (R7RS) | Cheney on the M.T.A. with native threads. |
 | [Cython](http://cython.org) | Python | |
