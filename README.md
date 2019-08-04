@@ -54,7 +54,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [oi](https://github.com/hodefoting/oi/) | C with traits | Compiles to code that can be directly used from plain C. |
 | [ooc](http://ooc-lang.org) | ooc | |
 | [OpenDylan](http://opendylan.org/) | Dylan |
-| [p2c](https://schneider.ncifcrf.gov/p2c/) | Several Pascal dialects, including UCSD and Turbo Pascal; Modula-2. | Can generate C or C++ code. |
+| [p2c](http://users.fred.net/tds/lab/p2c/) | Several Pascal dialects, including UCSD and Turbo Pascal; Modula-2. | Can generate C or C++ code. |
 | [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm) | Java bytecode | Use for the Java to iOS portability part of the [Codename One](https://www.codenameone.com/) project. |
 | [perlcc](http://search.cpan.org/dist/B-C/) | Perl 5 | |
 | [purescript-native](https://github.com/andyarvanitis/purescript-native) | PureScript | Targets C++, not C. |
