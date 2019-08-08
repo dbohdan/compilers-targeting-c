@@ -78,6 +78,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Zephir](http://zephir-lang.com/) | Zephir | A language for writing PHP extensions. |
 
 # C macro languages
+* [C-Mera](https://github.com/kiselgra/c-mera), a simple source-to-source compiler that transforms s-expression notation to code in a C-family language.
 * [LISP/c](https://github.com/eratosthenesia/lispc), a Common Lisp-based macrolanguage for C.
 
 # See also
