@@ -76,6 +76,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Ur/Web](http://www.impredicative.com/ur/) | Ur/Web | |
 | [Vala](https://wiki.gnome.org/Projects/Vala) | Vala | |
 | [Zephir](http://zephir-lang.com/) | Zephir | A language for writing PHP extensions. |
+| [ZZ](https://github.com/aep/zz) | Drunk Octopus | a safe dialect of C for embedded systems, inspired by rust |
 
 # C macro languages
 * [C-Mera](https://github.com/kiselgra/c-mera), a simple source-to-source compiler that transforms s-expression notation to code in a C-family language.
