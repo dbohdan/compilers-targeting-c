@@ -25,7 +25,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Esotope Brainfuck Compiler](https://github.com/lifthrasiir/esotope-bfc) | Brainfuck | |
 | [Euphoria to C Translator](http://www.rapideuphoria.com/e2c.htm) | Euphoria | |
 | [f2c](http://www.netlib.org/f2c/) | Fortran 77 | |
-| [Felix](http://felix-lang.org/) | Felix | Targets C++, not C. |
+| [Felix](https://github.com/felix-lang/felix) | Felix | Targets C++, not C. |
 | [FreeBASIC](https://www.freebasic.net/) | Basic | |
 | [Futhark](https://github.com/HIPERFIT/futhark) | Futhark | Purely functional data-parallel language generating OpenCL C |
 | [Gambit](http://gambitscheme.org/) | Scheme (R5RS) | |
