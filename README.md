@@ -74,6 +74,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [TSP](https://github.com/tpoindex/tsp) | A typed subset of Tcl. | An experimental JIT. Compiles procedures written in a statically typed subset of Tcl to C or Java to accelerate Tcl programs. |
 | [UbxBasic](https://sourceforge.net/projects/ubxbasic/) | Basic | Can generate C or C++ code. A fork of [BCX](http://bcx-basic.sourceforge.net/) that adds Linux support in addition to Windows. Uses Glib. |
 | [Ur/Web](http://www.impredicative.com/ur/) | Ur/Web | |
+| [V](https://github.com/vlang/v) | V | A no-GC systems language with modern features like sum types and immutability by default. |
 | [Vala](https://wiki.gnome.org/Projects/Vala) | Vala | |
 | [Zephir](http://zephir-lang.com/) | Zephir | A language for writing PHP extensions. |
 | [ZZ](https://github.com/aep/zz) | ZZ (Drunk Octopus) | A safe dialect of C for embedded systems inspired by Rust. |
