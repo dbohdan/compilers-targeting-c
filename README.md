@@ -33,6 +33,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Genie](http://live.gnome.org/Genie) | Genie |
 | [GHC](https://www.haskell.org/ghc/) | Haskell | [C backend](https://downloads.haskell.org/~ghc/7.6.3/docs/html/users_guide/code-generators.html) documentation page.  |
 | [GnuCOBOL](http://open-cobol.sourceforge.net/) | COBOL 2014 with extensions | |
+| [Harbour](https://github.com/harbour/core/) | xBase compatible with CA-Clipper | |
 | [Haxe](http://haxe.org) | Haxe | Has separate C++ and C targets |
 | [Idris](http://www.idris-lang.org/) | Idris | A pure functional programming language with dependent types. |
 | [Ivory](http://ivorylang.org/) | Ivory | A Haskell eDSL for safe systems programming. |
