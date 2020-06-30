@@ -53,6 +53,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Nuitka](http://nuitka.net/) | Python | |
 | [OBNC](http://www.miasap.se/obnc/) | Oberon | |
 | [ocamlcc](https://github.com/ocaml-bytes/ocamlcc) | OCaml | Compiles OCaml bytecode to C. |
+| [Odin](https://github.com/odin-lang/Odin) | Odin | A fast, concise, readable, pragmatic and open sourced programming language. |
 | [oi](https://github.com/hodefoting/oi/) | C with traits | Compiles to code that can be directly used from plain C. |
 | [ooc](http://ooc-lang.org) | ooc | |
 | [OpenDylan](http://opendylan.org/) | Dylan |
