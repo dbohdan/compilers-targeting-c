@@ -22,7 +22,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Céu](http://www.ceu-lang.org/) | Céu | |
 | [EiffelStudio](https://www.eiffel.com/eiffelstudio/) | Eiffel | |
 | [Embeddable Common-Lisp](https://common-lisp.net/project/ecl/) | ANSI Common Lisp | |
-| [Emfrp](https://github.com/sawaken/emfrp) | Emfrp | Pure Functional Reactive Programming Language for Small-Scale Embedded Systems. |
+| [Emfrp](https://github.com/sawaken/emfrp) | Emfrp | A pure functional reactive programming language for small-scale embedded systems. |
 | [Epic](https://eb.host.cs.st-andrews.ac.uk/epic.php) | Epic | |
 | [Esotope Brainfuck Compiler](https://github.com/lifthrasiir/esotope-bfc) | Brainfuck | |
 | [Euphoria to C Translator](http://www.rapideuphoria.com/e2c.htm) | Euphoria | |
