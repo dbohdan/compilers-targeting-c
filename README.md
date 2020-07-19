@@ -8,6 +8,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [BaCon (Basic Converter)](http://basic-converter.org/) | Basic | |
 | [bc9Basic](https://sourceforge.net/projects/bc9basic/) | Basic | Can generate C or C++ code. Runs only on Windows but can generate code for *nix. A fork of [BCX](http://bcx-basic.sourceforge.net/) that outputs valid ISO/ANSI C. [Website archive](http://web.archive.org/web/20160405001529/http://bc9.bcxbasic.com/). |
 | [Bigloo](http://www-sop.inria.fr/mimosa/fp/Bigloo/) | Scheme (R5RS) | |
+| [Blech](https://github.com/boschresearch/blech) | Blech | Blech is a synchronous programming language for embedded, reactive, realtime-critical software. |
 | [bmx-ng](https://github.com/bmx-ng/bcc) | BlitzMax | A Monkey-derived BlitzMax to C transpiler. |
 | [Carp](https://github.com/carp-lang/carp) | Carp | A statically typed lisp, without a GC, for real-time applications. |
 | [Chapel](http://chapel.cray.com/) | Chapel | |
@@ -21,6 +22,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Céu](http://www.ceu-lang.org/) | Céu | |
 | [EiffelStudio](https://www.eiffel.com/eiffelstudio/) | Eiffel | |
 | [Embeddable Common-Lisp](https://common-lisp.net/project/ecl/) | ANSI Common Lisp | |
+| [Emfrp](https://github.com/sawaken/emfrp) | Emfrp | Pure Functional Reactive Programming Language for Small-Scale Embedded Systems. |
 | [Epic](https://eb.host.cs.st-andrews.ac.uk/epic.php) | Epic | |
 | [Esotope Brainfuck Compiler](https://github.com/lifthrasiir/esotope-bfc) | Brainfuck | |
 | [Euphoria to C Translator](http://www.rapideuphoria.com/e2c.htm) | Euphoria | |
