@@ -24,6 +24,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [EiffelStudio](https://www.eiffel.com/eiffelstudio/) | Eiffel | |
 | [Embeddable Common-Lisp](https://common-lisp.net/project/ecl/) | ANSI Common Lisp | |
 | [Emfrp](https://github.com/sawaken/emfrp) | Emfrp | A pure functional reactive programming language for small-scale embedded systems. |
+| [Emgo](https://github.com/ziutek/emgo) | Go | Compiles a subset of Go for 32-bit microcontrollers through C. |
 | [Epic](https://eb.host.cs.st-andrews.ac.uk/epic.php) | Epic | |
 | [Esotope Brainfuck Compiler](https://github.com/lifthrasiir/esotope-bfc) | Brainfuck | |
 | [Euphoria to C Translator](http://www.rapideuphoria.com/e2c.htm) | Euphoria | |
