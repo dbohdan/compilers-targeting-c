@@ -20,6 +20,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Cyclone](https://github.com/justinethier/cyclone) | Scheme (R7RS) | Cheney on the M.T.A. with native threads. |
 | [Cython](http://cython.org) | Python | |
 | [Céu](http://www.ceu-lang.org/) | Céu | |
+| [eC](http://ec-lang.org/) | eC | An object-oriented superset of C with modules and generics. |
 | [EiffelStudio](https://www.eiffel.com/eiffelstudio/) | Eiffel | |
 | [Embeddable Common-Lisp](https://common-lisp.net/project/ecl/) | ANSI Common Lisp | |
 | [Emfrp](https://github.com/sawaken/emfrp) | Emfrp | A pure functional reactive programming language for small-scale embedded systems. |
