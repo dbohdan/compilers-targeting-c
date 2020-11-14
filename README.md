@@ -27,7 +27,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Emgo](https://github.com/ziutek/emgo) | Go | Compiles a subset of Go for 32-bit microcontrollers through C. |
 | [Epic](https://eb.host.cs.st-andrews.ac.uk/epic.php) | Epic | |
 | [Esotope Brainfuck Compiler](https://github.com/lifthrasiir/esotope-bfc) | Brainfuck | |
-| [Euphoria to C Translator](http://www.rapideuphoria.com/e2c.htm) | Euphoria | |
+| [Euphoria to C Translator](https://openeuphoria.org/docs/e2c.html) | Euphoria | |
 | [f2c](http://www.netlib.org/f2c/) | Fortran 77 | |
 | [Felix](https://github.com/felix-lang/felix) | Felix | Targets C++, not C. |
 | [FreeBASIC](https://www.freebasic.net/) | Basic | |
