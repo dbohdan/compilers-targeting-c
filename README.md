@@ -53,6 +53,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [NectarJS](https://github.com/NectarJS/nectarjs) | JavaScript | The primary target is WebAssembly. [How to compile to C](https://github.com/NectarJS/nectarjs/issues/46#issuecomment-498532350). |
 | [Nim](http://nim-lang.org) | Nim | Can generate C, C++ or Objective C code. |
 | [Nit](http://nitlanguage.org/) | Nit | |
+| [NN-512](https://nn-512.com/) | NN-512 graph language | Generate C99 code for neural net inference. |
 | [Nuitka](http://nuitka.net/) | Python | |
 | [OBNC](http://www.miasap.se/obnc/) | Oberon | |
 | [ocamlcc](https://github.com/ocaml-bytes/ocamlcc) | OCaml | Compiles OCaml bytecode to C. |
