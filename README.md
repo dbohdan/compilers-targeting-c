@@ -51,7 +51,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Monkey 2](http://monkeycoder.co.nz/) | Monkey 2 | Targets C++, not C. |
 | [Mrustc](https://github.com/thepowersgang/mrustc) | Rust | |
 | [NectarJS](https://github.com/NectarJS/nectarjs) | JavaScript | The primary target is WebAssembly. [How to compile to C](https://github.com/NectarJS/nectarjs/issues/46#issuecomment-498532350). |
-| [Nelua](https://nelua.io) | Nelua | Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua. |
+| [Nelua](https://nelua.io) | Nelua | A small statically-typed and meta-programmable systems programming language heavily inspired by Lua. |
 | [Nim](http://nim-lang.org) | Nim | Can generate C, C++ or Objective C code. |
 | [Nit](http://nitlanguage.org/) | Nit | |
 | [NN-512](https://nn-512.com/) | NN-512 graph language | Generate C99 code for neural net inference. |
