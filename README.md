@@ -85,6 +85,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Vala](https://wiki.gnome.org/Projects/Vala) | Vala | |
 | [wasm2c](https://github.com/WebAssembly/wabt/tree/master/wasm2c) | WebAssembly | Converts WASM files to C source and header. |
 | [wasmdec](https://github.com/wwwg/wasmdec) | WebAssembly | Converts WebAssembly binaries to C. |
+| [wax](https://github.com/LingDong-/wax) | wax | A small language design for transpiling.  Compiles to C, C#, C++, Java, Lua, Python, Swift, TypeScript, and WebAssembly. |
 | [Zephir](http://zephir-lang.com/) | Zephir | A language for writing PHP extensions. |
 | [ZZ](https://github.com/aep/zz) | ZZ (Drunk Octopus) | A safe dialect of C for embedded systems inspired by Rust. |
 
