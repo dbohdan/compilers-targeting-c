@@ -45,6 +45,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Kit](https://www.kitlang.org/) | Kit | A statically typed procedural language with manual MM, traits, pattern matching, and metaprogramming designed with game development in mind. |
 | [Language84](http://norstrulde.org/language84/) | Language84 | |
 | [mbeddr](http://mbeddr.com/) | mbeddr | A set of languages for embedded software engineering. |
+| [ManKai Common Lisp](https://common-lisp.net/project/mkcl/) | Common Lisp | |
 | [matiec](https://github.com/nucleron/matiec) (unoffficial mirror) | ST, IL, SFC (IEC 61131) | A set of textual languages for PLC programming. |
 | [Mercury](http://www.mercurylang.org/) | Mercury | |
 | [MLton](http://mlton.org/) | Standard ML | |
