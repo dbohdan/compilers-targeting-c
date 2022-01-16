@@ -39,6 +39,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [GnuCOBOL](http://open-cobol.sourceforge.net/) | COBOL 2014 with extensions | |
 | [Harbour](https://github.com/harbour/core/) | xBase compatible with CA-Clipper | |
 | [Haxe](http://haxe.org) | Haxe | Has separate C++ and C targets |
+| [Hascal](https://github.com/hascal/hascal) | Python | Targets C++, not C |
 | [Idris](http://www.idris-lang.org/) | Idris | A pure functional programming language with dependent types. |
 | [Ivory](http://ivorylang.org/) | Ivory | A Haskell eDSL for safe systems programming. |
 | [jhc](http://repetae.net/computer/jhc/) | Haskell 98 | The resulting code doesn't use a garbage collector. |
