@@ -63,7 +63,8 @@ The following is a list of open source compilers that can generate C (or in some
 | [Nit](http://nitlanguage.org/) | Nit | |
 | [NN-512](https://nn-512.com/) | NN-512 graph language | Generate C99 code for neural net inference. |
 | [Nuitka](http://nuitka.net/) | Python | |
-| [OBNC](http://www.miasap.se/obnc/) | Oberon | |
+| [OBNC](http://www.miasap.se/obnc/) | Oberon-07 | |
+| [Ofront+](https://github.com/Oleg-N-Cher/OfrontPlus) | Oberon | Oberon family of languages to C translator for ARM, x64 and x86 architectures. |
 | [ocamlcc](https://github.com/ocaml-bytes/ocamlcc) | OCaml | Compiles OCaml bytecode to C. |
 | [oi](https://github.com/hodefoting/oi/) | C with traits | Compiles to code that can be directly used from plain C. |
 | [ooc](http://ooc-lang.org) | ooc | |
