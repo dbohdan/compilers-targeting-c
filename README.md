@@ -10,6 +10,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Bigloo](http://www-sop.inria.fr/mimosa/fp/Bigloo/) | Scheme (R5RS) | |
 | [Blech](https://github.com/boschresearch/blech) | Blech | A synchronous programming language for embedded reactive real-time-critical software. |
 | [bmx-ng](https://github.com/bmx-ng/bcc) | BlitzMax | A Monkey-derived BlitzMax to C transpiler. |
+| [Cake](https://github.com/thradams/cake) | C23 | Cake is a C23 compiler front end written from scratch in C. The compiler can be used to translate new versions of C (like C23) to C99. It also can be used to try out new features for the C language. Extensions like lambdas, defer and more were implemented. |
 | [Carp](https://github.com/carp-lang/carp) | Carp | A statically typed lisp, without a GC, for real-time applications. |
 | [Chapel](http://chapel.cray.com/) | Chapel | |
 | [CHICKEN Scheme](http://www.call-cc.org/) | Scheme (R5RS) | |
