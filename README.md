@@ -77,6 +77,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Pythran](https://github.com/serge-sans-paille/pythran) | Python | Targets C++, not C. |
 | [QuickJS](https://bellard.org/quickjs/) | JavaScript (ES2020) | Compiles JavaScript to bytecode and embeds the bytecode in C. |
 | [QB64.com](https://github.com/QB64Official/qb64) | QuickBASIC | Targets C++, not C. Forked from the original [QB64.org](https://github.com/QB64Team/qb64). |
+| [QB64Phoenix.com](https://github.com/QB64-Phoenix-Edition/QB64pe) | QuickBASIC | Targets C++, not C. Forked from the original [QB64.org](https://github.com/QB64Team/qb64). |
 | [Ragel](http://www.colm.net/open-source/ragel/) | Ragel | Can generate C or C++ code. Compiles executable finite state machines from regular languages. |
 | [RPerl](https://github.com/wbraswell/rperl) | RPerl, a restricted subset of Perl. | Targets C++, not C. Unrelated to RPython. |
 | [RPython](https://rpython.readthedocs.org/en/latest/) | RPython, a restricted subset of Python. | Unrelated to RPerl. |
