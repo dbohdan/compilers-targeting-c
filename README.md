@@ -6,7 +6,7 @@ The following is a list of open source compilers that can generate C (or in some
 |-------------------|-----------------------|-------|
 | [ATS](http://www.ats-lang.org/) | ATS | |
 | [BaCon (Basic Converter)](http://basic-converter.org/) | Basic | |
-| [bc9Basic](https://sourceforge.net/projects/bc9basic/) | Basic | Can generate C or C++ code. Runs only on Windows but can generate code for *nix. A fork of [BCX](http://bcx-basic.sourceforge.net/) that outputs valid ISO/ANSI C. [Website archive](http://web.archive.org/web/20160405001529/http://bc9.bcxbasic.com/). |
+| [bc9Basic](https://sourceforge.net/projects/bc9basic/) | Basic | Can generate C or C++ code. Runs only on Windows but can generate code for \*nix. A fork of [BCX](http://bcx-basic.sourceforge.net/) that outputs valid ISO/ANSI C. [Website archive](http://web.archive.org/web/20160405001529/http://bc9.bcxbasic.com/). |
 | [Bigloo](http://www-sop.inria.fr/mimosa/fp/Bigloo/) | Scheme (R5RS) | |
 | [Blech](https://github.com/boschresearch/blech) | Blech | A synchronous programming language for embedded reactive real-time-critical software. |
 | [bmx-ng](https://github.com/bmx-ng/bcc) | BlitzMax | A Monkey-derived BlitzMax to C transpiler. |
@@ -54,6 +54,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Mrustc](https://github.com/thepowersgang/mrustc) | Rust | |
 | [NectarJS](https://github.com/NectarJS/nectarjs) | JavaScript | The primary target is WebAssembly. [How to compile to C](https://github.com/NectarJS/nectarjs/issues/46#issuecomment-498532350). |
 | [Nelua](https://nelua.io) | Nelua | A statically-typed meta-programmable systems programming language heavily inspired by Lua. |
+| [Natalie](https://github.com/natalie-lang/natalie) | Ruby | a unique Ruby implementation, compiled to C++ (WIP). |
 | [Nim](http://nim-lang.org) | Nim | Can generate C, C++ or Objective C code. |
 | [Nit](http://nitlanguage.org/) | Nit | |
 | [NN-512](https://nn-512.com/) | NN-512 graph language | Generate C99 code for neural net inference. |
