@@ -6,10 +6,14 @@ The following is a list of open source compilers that can generate C (or in some
 |-------------------|-----------------------|-------|
 | [ATS](http://www.ats-lang.org/) | ATS | |
 | [BaCon (Basic Converter)](http://basic-converter.org/) | Basic | |
-| [bc9Basic](https://sourceforge.net/projects/bc9basic/) | Basic | Can generate C or C++ code. Runs only on Windows but can generate code for *nix. A fork of [BCX](http://bcx-basic.sourceforge.net/) that outputs valid ISO/ANSI C. [Website archive](http://web.archive.org/web/20160405001529/http://bc9.bcxbasic.com/). |
+| [BCX](bcxbasiccoders.com) | Basic | |
+| [MBC](https://github.com/Airr/MBC) | Basic | Targets C++, not C. |
+| [bc9Basic](https://sourceforge.net/projects/bc9basic/) | Basic | Can generate C or C++ code. Runs only on Windows but can generate code for \*nix. A fork of [BCX](http://bcx-basic.sourceforge.net/) that outputs valid ISO/ANSI C. [Website archive](http://web.archive.org/web/20160405001529/http://bc9.bcxbasic.com/). |
+| [Kaya-BASIC](https://github.com/kankouhin/Kaya-BASIC) | Basic | Targets C++, not C. |
 | [Bigloo](http://www-sop.inria.fr/mimosa/fp/Bigloo/) | Scheme (R5RS) | |
 | [Blech](https://github.com/boschresearch/blech) | Blech | A synchronous programming language for embedded reactive real-time-critical software. |
 | [bmx-ng](https://github.com/bmx-ng/bcc) | BlitzMax | A Monkey-derived BlitzMax to C transpiler. |
+| [Cake](https://github.com/thradams/cake) | C23 | Cake is a C23 compiler front end written from scratch in C. The compiler can be used to translate new versions of C (like C23) to C99. It also can be used to try out new features for the C language. Extensions like lambdas, defer and more were implemented. |
 | [Carp](https://github.com/carp-lang/carp) | Carp | A statically typed lisp, without a GC, for real-time applications. |
 | [Chapel](http://chapel.cray.com/) | Chapel | |
 | [CHICKEN Scheme](http://www.call-cc.org/) | Scheme (R5RS) | |
@@ -22,6 +26,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Céu](http://www.ceu-lang.org/) | Céu | |
 | [eC](http://ec-lang.org/) | eC | An object-oriented superset of C with modules and generics. |
 | [EiffelStudio](https://www.eiffel.com/eiffelstudio/) | Eiffel | |
+| [Gobo Eiffel](https://github.com/gobo-eiffel/gobo) | Eiffel | |
 | [Embeddable Common-Lisp](https://common-lisp.net/project/ecl/) | ANSI Common Lisp | |
 | [Emfrp](https://github.com/sawaken/emfrp) | Emfrp | A pure functional reactive programming language for small-scale embedded systems. |
 | [Emgo](https://github.com/ziutek/emgo) | Go | Compiles a subset of Go for 32-bit microcontrollers through C. |
@@ -53,22 +58,27 @@ The following is a list of open source compilers that can generate C (or in some
 | [Mrustc](https://github.com/thepowersgang/mrustc) | Rust | |
 | [NectarJS](https://github.com/NectarJS/nectarjs) | JavaScript | The primary target is WebAssembly. [How to compile to C](https://github.com/NectarJS/nectarjs/issues/46#issuecomment-498532350). |
 | [Nelua](https://nelua.io) | Nelua | A statically-typed meta-programmable systems programming language heavily inspired by Lua. |
+| [Natalie](https://github.com/natalie-lang/natalie) | Ruby | a unique Ruby implementation, compiled to C++ (WIP). |
 | [Nim](http://nim-lang.org) | Nim | Can generate C, C++ or Objective C code. |
 | [Nit](http://nitlanguage.org/) | Nit | |
 | [NN-512](https://nn-512.com/) | NN-512 graph language | Generate C99 code for neural net inference. |
 | [Nuitka](http://nuitka.net/) | Python | |
-| [OBNC](http://www.miasap.se/obnc/) | Oberon | |
+| [OBNC](http://www.miasap.se/obnc/) | Oberon-07 | |
+| [Ofront+](https://github.com/Oleg-N-Cher/OfrontPlus) | Oberon | Oberon family of languages to C translator for ARM, x64 and x86 architectures. |
 | [ocamlcc](https://github.com/ocaml-bytes/ocamlcc) | OCaml | Compiles OCaml bytecode to C. |
 | [oi](https://github.com/hodefoting/oi/) | C with traits | Compiles to code that can be directly used from plain C. |
 | [ooc](http://ooc-lang.org) | ooc | |
 | [OpenDylan](http://opendylan.org/) | Dylan |
 | [p2c](http://users.fred.net/tds/lab/p2c/) | Several Pascal dialects, including UCSD and Turbo Pascal; Modula-2. | Can generate C or C++ code. |
 | [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm) | Java bytecode | Use for the Java to iOS portability part of the [Codename One](https://www.codenameone.com/) project. |
+| [Portable Object Compiler](https://sourceforge.net/projects/objc/) | Objective-C | The version of Objective-C implemented is StepStone Objective-C, not Apple Objective-C. |
 | [perlcc](http://search.cpan.org/dist/B-C/) | Perl 5 | |
 | [purescript-native](https://github.com/andyarvanitis/purescript-native) | PureScript | Targets C++, not C. |
 | [Py14](https://github.com/lukasmartinelli/py14) | Python | Targets C++, not C. |
 | [Pythran](https://github.com/serge-sans-paille/pythran) | Python | Targets C++, not C. |
 | [QuickJS](https://bellard.org/quickjs/) | JavaScript (ES2020) | Compiles JavaScript to bytecode and embeds the bytecode in C. |
+| [QB64.com](https://github.com/QB64Official/qb64) | QuickBASIC | Targets C++, not C. Forked from the original [QB64.org](https://github.com/QB64Team/qb64). |
+| [QB64Phoenix.com](https://github.com/QB64-Phoenix-Edition/QB64pe) | QuickBASIC | Targets C++, not C. Forked from the original [QB64.org](https://github.com/QB64Team/qb64). |
 | [Ragel](http://www.colm.net/open-source/ragel/) | Ragel | Can generate C or C++ code. Compiles executable finite state machines from regular languages. |
 | [RPerl](https://github.com/wbraswell/rperl) | RPerl, a restricted subset of Perl. | Targets C++, not C. Unrelated to RPython. |
 | [RPython](https://rpython.readthedocs.org/en/latest/) | RPython, a restricted subset of Python. | Unrelated to RPerl. |
@@ -86,6 +96,8 @@ The following is a list of open source compilers that can generate C (or in some
 | [V](https://github.com/vlang/v) | V | A no-GC systems language with modern features like sum types and immutability by default. |
 | [Vala](https://wiki.gnome.org/Projects/Vala) | Vala | |
 | [Vostok](https://github.com/Vostok-space/vostok) | Oberon-07 | Also targets Java, JavaScript, and Oberon dialects. |
+| [Vishap's Oberon Compiler](https://github.com/vishaps/voc) | Oberon-2 | |
+| [Vector Pascal](https://sourceforge.net/projects/vectorpascalcom/) | Object Pascal | |
 | [wasm2c](https://github.com/WebAssembly/wabt/tree/master/wasm2c) | WebAssembly | Converts WASM files to C source and header. |
 | [wasmdec](https://github.com/wwwg/wasmdec) | WebAssembly | Converts WebAssembly binaries to C. |
 | [wax](https://github.com/LingDong-/wax) | wax | A language design for transpiling.  Compiles to C, C#, C++, Java, Lua, Python, Swift, TypeScript, and WebAssembly. |
