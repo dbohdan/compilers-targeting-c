@@ -25,8 +25,11 @@ export const normalizeEntry = (entry) => {
 }
 
 const database_normalized = database.map(normalizeEntry).sort((a, b) => { // sort ascending
-    if (a.name > b.name) return 1;
-    if (a.name < b.name) return -1;
+    a = a.name.toLowerCase()
+    b = b.name.toLowerCase()
+
+    if (a > b) return 1;
+    if (a < b) return -1;
     return 0
 });
 
