@@ -19,6 +19,15 @@
 
 export const database = [
     {
+        "name":             "PtoC",
+        "source_languages": "pascal | Turbo Pascal | Oregon Pascal | ISO Pascal | Sun Pascal | HP Pascal",
+        "target_languages": "C | C++",
+        "notes":            "Transpiles to readable code",
+        "links": {
+            "repo":         "https://github.com/knizhnik/ptoc/",
+        }
+    },
+    {
         "name":             "nullc",
         "source_languages": "nullc",
         "target_languages": "C | x86 | VM",
