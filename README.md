@@ -71,6 +71,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [p2c](http://users.fred.net/tds/lab/p2c/) | Pascal, UCSD, Turbo Pascal, Modula-2 | C, C++ | Supports several Pascal dialects, including UCSD and Turbo Pascal, Modula-2. | [web](http://users.fred.net/tds/lab/p2c/) |
 | [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm) | Java bytecode | C | Use for the Java to iOS portability part of the [Codename One](https://www.codenameone.com/) project. | [repo](https://github.com/codenameone/CodenameOne/tree/master/vm) |
 | [perlcc](http://search.cpan.org/dist/B-C/) | Perl 5 | C |  | [web](http://search.cpan.org/dist/B-C/) |
+| [prometeo](https://github.com/zanellia/prometeo) | Python | C | Transpiles subset of Python | [repo](https://github.com/zanellia/prometeo) [doc](https://prometeo.readthedocs.io/en/latest/index.html) |
 | [PtoC](https://github.com/knizhnik/ptoc/) | pascal, Turbo Pascal, Oregon Pascal, ISO Pascal, Sun Pascal, HP Pascal | C, C++ | Transpiles to readable code | [repo](https://github.com/knizhnik/ptoc/) |
 | [purescript-native](https://github.com/andyarvanitis/purescript-native) | PureScript | C++ |  | [repo](https://github.com/andyarvanitis/purescript-native) |
 | [Py14](https://github.com/lukasmartinelli/py14) | Python | C++ |  | [repo](https://github.com/lukasmartinelli/py14) |

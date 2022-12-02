@@ -16,8 +16,17 @@
 */
 
 
-
 export const database = [
+    {
+        "name":             "prometeo",
+        "source_languages": "Python",
+        "target_languages": "C",
+        "notes":            "Transpiles subset of Python",
+        "links": {
+            "repo":         "https://github.com/zanellia/prometeo",
+            "doc":          "https://prometeo.readthedocs.io/en/latest/index.html"
+        }
+    },
     {
         "name":             "PtoC",
         "source_languages": "pascal | Turbo Pascal | Oregon Pascal | ISO Pascal | Sun Pascal | HP Pascal",
