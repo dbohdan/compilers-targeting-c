@@ -18,6 +18,17 @@
 
 export const database = [
     {
+        "name":             "Yaksha",
+        "source_languages": "Python",
+        "target_languages": "C",
+        "notes":            "Transpiles \"Python like\" programming language to C",
+        "links": {
+            "web":          "https://yakshalang.github.io/",
+            "repo":         "https://github.com/YakshaLang",
+            "doc":          "https://yakshalang.github.io/documentation.html"
+        }
+    },
+    {
         "name":             "prometeo",
         "source_languages": "Python",
         "target_languages": "C",
