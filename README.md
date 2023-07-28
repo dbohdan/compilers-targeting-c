@@ -12,6 +12,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [Bigloo](http://www-sop.inria.fr/mimosa/fp/Bigloo/) | Scheme | C | Scheme (R5RS) | [web](http://www-sop.inria.fr/mimosa/fp/Bigloo/) |
 | [Blech](https://github.com/boschresearch/blech) | Blech | C | A synchronous programming language for embedded reactive real-time-critical software. | [repo](https://github.com/boschresearch/blech) |
 | [bmx-ng](https://github.com/bmx-ng/bcc) | BlitzMax | C | A Monkey-derived BlitzMax to C transpiler. | [repo](https://github.com/bmx-ng/bcc) |
+| [Cakelisp](https://macoy.me/code/macoy/cakelisp) | Cakelisp | C, C++ | Lisp-like programming language | [web](https://macoy.me/code/macoy/cakelisp) [repo](https://macoy.me/code/macoy/cakelisp) [doc](https://macoy.me/code/macoy/cakelisp/src/branch/master/doc/Cakelisp.org) |
 | [Carp](https://github.com/carp-lang/carp) | Carp, Lisp | C | A statically typed lisp, without a GC, for real-time applications. | [repo](https://github.com/carp-lang/carp) |
 | [Cforall](https://cforall.uwaterloo.ca/) | Cforall, C | C | Extends ISO C and outputs augmented C code | [web](https://cforall.uwaterloo.ca/) [repo](https://github.com/cforall/cforall) [doc](https://cforall.uwaterloo.ca/doc/user.pdf) |
 | [Chapel](http://chapel.cray.com/) | Chapel | C |  | [web](http://chapel.cray.com/) |

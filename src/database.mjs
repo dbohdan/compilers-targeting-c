@@ -18,6 +18,17 @@
 
 export const database = [
     {
+        "name":             "Cakelisp",
+        "source_languages": "Cakelisp",
+        "target_languages": "C | C++",
+        "notes":            "Lisp-like programming language",
+        "links": {
+            "web":          "https://macoy.me/code/macoy/cakelisp",
+            "repo":         "https://macoy.me/code/macoy/cakelisp",
+            "doc":          "https://macoy.me/code/macoy/cakelisp/src/branch/master/doc/Cakelisp.org"
+        }
+    },
+    {
         "name":             "Austral",
         "source_languages": "Austral",
         "target_languages": "C",
