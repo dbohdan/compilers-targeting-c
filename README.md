@@ -6,6 +6,7 @@ The following is a list of open source compilers that can generate C (or in some
 | --- | --- | --- | --- | --- |
 | [Alumina](https://docs.alumina-lang.net/) | Alumina | C | Inspired by Rust | [web](https://docs.alumina-lang.net/) [repo](https://github.com/alumina-lang/alumina) |
 | [ATS](http://www.ats-lang.org/) | ATS | C |  | [web](http://www.ats-lang.org/) |
+| [Austral](https://austral-lang.org/) | Austral | C | Has some similarities to Haskell and Ada | [web](https://austral-lang.org/) [repo](https://github.com/austral/austral/) [doc](https://austral-lang.org/spec/spec.html) |
 | [BaCon (Basic Converter)](http://basic-converter.org/) | Basic | C |  | [web](http://basic-converter.org/) |
 | [bc9Basic](https://sourceforge.net/projects/bc9basic/) | Basic | C | Can generate C or C++ code. Runs only on Windows but can generate code for *nix. A fork of [BCX](http://bcx-basic.sourceforge.net/) that outputs valid ISO/ANSI C. [Website archive](http://web.archive.org/web/20160405001529/http://bc9.bcxbasic.com/). | [web](https://sourceforge.net/projects/bc9basic/) |
 | [Bigloo](http://www-sop.inria.fr/mimosa/fp/Bigloo/) | Scheme | C | Scheme (R5RS) | [web](http://www-sop.inria.fr/mimosa/fp/Bigloo/) |

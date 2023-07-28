@@ -18,6 +18,17 @@
 
 export const database = [
     {
+        "name":             "Austral",
+        "source_languages": "Austral",
+        "target_languages": "C",
+        "notes":            "Has some similarities to Haskell and Ada",
+        "links": {
+            "web":          "https://austral-lang.org/",
+            "repo":         "https://github.com/austral/austral/",
+            "doc":          "https://austral-lang.org/spec/spec.html"
+        }
+    },
+    {
         "name":             "Yaksha",
         "source_languages": "Python",
         "target_languages": "C",
