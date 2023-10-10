@@ -18,7 +18,6 @@ The following is a list of open source compilers that can generate C (or in some
 | [Chapel](http://chapel.cray.com/) | Chapel | C |  | [web](http://chapel.cray.com/) |
 | [CHICKEN Scheme](http://www.call-cc.org/) | Scheme | C | Scheme (R5RS) | [web](http://www.call-cc.org/) |
 | [Ciao](http://ciao-lang.org/) | Prolog | C |  | [web](http://ciao-lang.org/) |
-| [cito](http://cito.sourceforge.net/) | Ć | C | A language for making portable libraries with a syntax like C#. Also targets Java, C#, JavaScript, ActionScript, Perl 5 and D. | [web](http://cito.sourceforge.net/) |
 | [CLiCC](https://github.com/plops/clicc) | Common Lisp | C | Compiles a large strict subset of Common Lisp + CLOS to C. | [repo](https://github.com/plops/clicc) |
 | [Critical Mass Modula-3](https://github.com/modula3/cm3) | Modula-3 | C |  | [repo](https://github.com/modula3/cm3) |
 | [Cyclone](https://github.com/justinethier/cyclone) | Scheme | C | Scheme (R7RS). Cheney on the M.T.A. with native threads. | [repo](https://github.com/justinethier/cyclone) |
@@ -35,6 +34,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [f2c](http://www.netlib.org/f2c/) | Fortran 77 | C |  | [web](http://www.netlib.org/f2c/) |
 | [Felix](https://github.com/felix-lang/felix) | Felix | C++ |  | [repo](https://github.com/felix-lang/felix) |
 | [FreeBASIC](https://www.freebasic.net/) | Basic | C |  | [web](https://www.freebasic.net/) |
+| [fut](https://fusion-lang.org/) | Fusion | C, C++, C#, D, Java, JavaScript, Python, Swift, TypeScript, OpenCL | A language for making portable libraries with a syntax like C#. | [web](https://fusion-lang.org/) |
 | [Futhark](https://github.com/HIPERFIT/futhark) | Futhark | C | Purely functional data-parallel language generating OpenCL C | [repo](https://github.com/HIPERFIT/futhark) |
 | [Gambit](http://gambitscheme.org/) | Scheme | C | Scheme (R5RS) | [web](http://gambitscheme.org/) |
 | [GCL](http://www.gnu.org/software/gcl/) | Common Lisp | C |  | [web](http://www.gnu.org/software/gcl/) |

@@ -229,15 +229,6 @@ export const database = [
         }
     },
     {
-        "name":             "cito",
-        "source_languages": "Ć",
-        "target_languages": "C",
-        "notes":            "A language for making portable libraries with a syntax like C#. Also targets Java, C#, JavaScript, ActionScript, Perl 5 and D.",
-        "links": {
-            "web":          "http://cito.sourceforge.net/"
-        }
-    },
-    {
         "name":             "CLiCC",
         "source_languages": "Common Lisp",
         "target_languages": "C",
@@ -379,6 +370,15 @@ export const database = [
         "notes":            "",
         "links": {
             "web":          "https://www.freebasic.net/"
+        }
+    },
+    {
+        "name":             "fut",
+        "source_languages": "Fusion",
+        "target_languages": "C | C++ | C# | D | Java | JavaScript | Python | Swift | TypeScript | OpenCL",
+        "notes":            "A language for making portable libraries with a syntax like C#.",
+        "links": {
+            "web":          "https://fusion-lang.org/"
         }
     },
     {
