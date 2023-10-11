@@ -100,7 +100,7 @@ The following is a list of open source compilers that can generate C (or in some
 | [wasm2c](https://github.com/WebAssembly/wabt/tree/master/wasm2c) | WebAssembly | C | Converts WASM files to C source and header. | [repo](https://github.com/WebAssembly/wabt/tree/master/wasm2c) |
 | [wasmdec](https://github.com/wwwg/wasmdec) | WebAssembly | C | Converts WebAssembly binaries to C. | [repo](https://github.com/wwwg/wasmdec) |
 | [wax](https://github.com/LingDong-/wax) | wax | C, C#, C++, Java, Lua, Python, Swift, TypeScript, WebAssembly | A language design for transpiling. | [web](https://github.com/LingDong-/wax) |
-| [Yaksha](https://yakshalang.github.io/) | Python | C | Transpiles "Python like" programming language to C | [web](https://yakshalang.github.io/) [repo](https://github.com/YakshaLang) [doc](https://yakshalang.github.io/documentation.html) |
+| [Yaksha](https://yakshalang.github.io/) | Yaksha | C | Compiles "Python like" programming language to C99. No Garbage collector (manual memory management). Builtin support for raylib & wasm4. Macro system is a lisp dialect (YakshaLisp) | [web](https://yakshalang.github.io/) [repo](https://github.com/YakshaLang) [doc](https://yakshalang.github.io/documentation.html) |
 | [Zephir](http://zephir-lang.com/) | Zephir | C | A language for writing PHP extensions. | [web](http://zephir-lang.com/) |
 | [ZZ](https://github.com/aep/zz) | ZZ (Drunk Octopus) | C | A safe dialect of C for embedded systems inspired by Rust. | [repo](https://github.com/aep/zz) |
 
